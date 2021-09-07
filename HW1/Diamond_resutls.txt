@@ -1,0 +1,42 @@
+
+Enter diamond size (must be an odd integer)
+7
+   B
+  BBB
+ BBBBB
+BBBBBBB
+ BBBBB
+  BBB
+   B
+
+Process finished with exit code 0
+------------------------------------------------------------------
+Enter diamond size (must be an odd integer)
+13
+      B
+     BBB
+    BBBBB
+   BBBBBBB
+  BBBBBBBBB
+ BBBBBBBBBBB
+BBBBBBBBBBBBB
+ BBBBBBBBBBB
+  BBBBBBBBB
+   BBBBBBB
+    BBBBB
+     BBB
+      B
+
+Process finished with exit code 0
+------------------------------------------------------------------
+Enter diamond size (must be an odd integer)
+-2
+Enter a positive and odd integer
+
+Process finished with exit code 0
+------------------------------------------------------------------
+Enter diamond size (must be an odd integer)
+6
+Enter a positive and odd integer
+
+Process finished with exit code 0

@@ -1,0 +1,44 @@
+
+Next number please?
+5
+The maximum is 5, The minimum is 5
+Next number please?
+10
+The maximum is 10, The minimum is 5
+Next number please?
+2
+The maximum is 10, The minimum is 2
+Next number please?
+-1
+Huh? no numbers? Next time, give me something useful.
+Process finished with exit code 0
+
+----------------------------------------------------------------------
+Next number please?
+100
+The maximum is 100, The minimum is 100
+Next number please?
+-10
+Huh? no numbers? Next time, give me something useful.
+Process finished with exit code 0
+
+----------------------------------------------------------------------
+
+Next number please?
+20
+The maximum is 20, The minimum is 20
+Next number please?
+22
+The maximum is 22, The minimum is 20
+Next number please?
+30
+The maximum is 30, The minimum is 20
+Next number please?
+50
+The maximum is 50, The minimum is 20
+Next number please?
+0
+Huh? no numbers? Next time, give me something useful.
+Process finished with exit code 0
+
+
