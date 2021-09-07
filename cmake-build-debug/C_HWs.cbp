@@ -88,13 +88,25 @@
 		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW1/emptyDiamond.h">
 			<Option target="C_HWs"/>
 		</Unit>
-		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW1/main.c">
-			<Option target="C_HWs"/>
-		</Unit>
 		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW1/minmax.c">
 			<Option target="C_HWs"/>
 		</Unit>
 		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW1/minmax.h">
+			<Option target="C_HWs"/>
+		</Unit>
+		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.c">
+			<Option target="C_HWs"/>
+		</Unit>
+		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.h">
+			<Option target="C_HWs"/>
+		</Unit>
+		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW2/primes.c">
+			<Option target="C_HWs"/>
+		</Unit>
+		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW2/primes.h">
+			<Option target="C_HWs"/>
+		</Unit>
+		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/main.c">
 			<Option target="C_HWs"/>
 		</Unit>
 		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/CMakeLists.txt">

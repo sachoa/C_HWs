@@ -6,19 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/stephanieachoa/Documents/git/C_HWs/HW1/diamond.h
-
-/Users/stephanieachoa/Documents/git/C_HWs/HW1/emptyDiamond.h
-
-/Users/stephanieachoa/Documents/git/C_HWs/HW1/main.c
+/Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.c
 stdio.h
 -
-diamond.h
-/Users/stephanieachoa/Documents/git/C_HWs/HW1/diamond.h
-minmax.h
-/Users/stephanieachoa/Documents/git/C_HWs/HW1/minmax.h
-emptyDiamond.h
-/Users/stephanieachoa/Documents/git/C_HWs/HW1/emptyDiamond.h
+calendar.h
+/Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.h
 
-/Users/stephanieachoa/Documents/git/C_HWs/HW1/minmax.h
+/Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.h
 

@@ -10,8 +10,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/stephanieachoa/Documents/git/C_HWs/HW1/diamond.c" "/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles/C_HWs.dir/HW1/diamond.c.o"
   "/Users/stephanieachoa/Documents/git/C_HWs/HW1/emptyDiamond.c" "/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.o"
-  "/Users/stephanieachoa/Documents/git/C_HWs/HW1/main.c" "/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles/C_HWs.dir/HW1/main.c.o"
   "/Users/stephanieachoa/Documents/git/C_HWs/HW1/minmax.c" "/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles/C_HWs.dir/HW1/minmax.c.o"
+  "/Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.c" "/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles/C_HWs.dir/HW2/calendar.c.o"
+  "/Users/stephanieachoa/Documents/git/C_HWs/HW2/primes.c" "/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles/C_HWs.dir/HW2/primes.c.o"
+  "/Users/stephanieachoa/Documents/git/C_HWs/main.c" "/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles/C_HWs.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

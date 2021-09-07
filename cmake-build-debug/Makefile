@@ -177,30 +177,6 @@ HW1/emptyDiamond.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.s
 .PHONY : HW1/emptyDiamond.c.s
 
-HW1/main.o: HW1/main.c.o
-.PHONY : HW1/main.o
-
-# target to build an object file
-HW1/main.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW1/main.c.o
-.PHONY : HW1/main.c.o
-
-HW1/main.i: HW1/main.c.i
-.PHONY : HW1/main.i
-
-# target to preprocess a source file
-HW1/main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW1/main.c.i
-.PHONY : HW1/main.c.i
-
-HW1/main.s: HW1/main.c.s
-.PHONY : HW1/main.s
-
-# target to generate assembly for a file
-HW1/main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW1/main.c.s
-.PHONY : HW1/main.c.s
-
 HW1/minmax.o: HW1/minmax.c.o
 .PHONY : HW1/minmax.o
 
@@ -225,6 +201,78 @@ HW1/minmax.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW1/minmax.c.s
 .PHONY : HW1/minmax.c.s
 
+HW2/calendar.o: HW2/calendar.c.o
+.PHONY : HW2/calendar.o
+
+# target to build an object file
+HW2/calendar.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW2/calendar.c.o
+.PHONY : HW2/calendar.c.o
+
+HW2/calendar.i: HW2/calendar.c.i
+.PHONY : HW2/calendar.i
+
+# target to preprocess a source file
+HW2/calendar.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW2/calendar.c.i
+.PHONY : HW2/calendar.c.i
+
+HW2/calendar.s: HW2/calendar.c.s
+.PHONY : HW2/calendar.s
+
+# target to generate assembly for a file
+HW2/calendar.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW2/calendar.c.s
+.PHONY : HW2/calendar.c.s
+
+HW2/primes.o: HW2/primes.c.o
+.PHONY : HW2/primes.o
+
+# target to build an object file
+HW2/primes.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW2/primes.c.o
+.PHONY : HW2/primes.c.o
+
+HW2/primes.i: HW2/primes.c.i
+.PHONY : HW2/primes.i
+
+# target to preprocess a source file
+HW2/primes.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW2/primes.c.i
+.PHONY : HW2/primes.c.i
+
+HW2/primes.s: HW2/primes.c.s
+.PHONY : HW2/primes.s
+
+# target to generate assembly for a file
+HW2/primes.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW2/primes.c.s
+.PHONY : HW2/primes.c.s
+
+main.o: main.c.o
+.PHONY : main.o
+
+# target to build an object file
+main.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/main.c.o
+.PHONY : main.c.o
+
+main.i: main.c.i
+.PHONY : main.i
+
+# target to preprocess a source file
+main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/main.c.i
+.PHONY : main.c.i
+
+main.s: main.c.s
+.PHONY : main.s
+
+# target to generate assembly for a file
+main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/main.c.s
+.PHONY : main.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -240,12 +288,18 @@ help:
 	@echo "... HW1/emptyDiamond.o"
 	@echo "... HW1/emptyDiamond.i"
 	@echo "... HW1/emptyDiamond.s"
-	@echo "... HW1/main.o"
-	@echo "... HW1/main.i"
-	@echo "... HW1/main.s"
 	@echo "... HW1/minmax.o"
 	@echo "... HW1/minmax.i"
 	@echo "... HW1/minmax.s"
+	@echo "... HW2/calendar.o"
+	@echo "... HW2/calendar.i"
+	@echo "... HW2/calendar.s"
+	@echo "... HW2/primes.o"
+	@echo "... HW2/primes.i"
+	@echo "... HW2/primes.s"
+	@echo "... main.o"
+	@echo "... main.i"
+	@echo "... main.s"
 .PHONY : help
 
 

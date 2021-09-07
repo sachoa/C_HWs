@@ -1,8 +1,10 @@
 file(REMOVE_RECURSE
   "CMakeFiles/C_HWs.dir/HW1/diamond.c.o"
   "CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.o"
-  "CMakeFiles/C_HWs.dir/HW1/main.c.o"
   "CMakeFiles/C_HWs.dir/HW1/minmax.c.o"
+  "CMakeFiles/C_HWs.dir/HW2/calendar.c.o"
+  "CMakeFiles/C_HWs.dir/HW2/primes.c.o"
+  "CMakeFiles/C_HWs.dir/main.c.o"
   "C_HWs"
   "C_HWs.pdb"
 )

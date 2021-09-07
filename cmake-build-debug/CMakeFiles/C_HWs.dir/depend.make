@@ -7,11 +7,19 @@ CMakeFiles/C_HWs.dir/HW1/diamond.c.o: \
 CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.o: \
  ../HW1/emptyDiamond.c \
  ../HW1/emptyDiamond.h
-CMakeFiles/C_HWs.dir/HW1/main.c.o: \
- ../HW1/diamond.h \
- ../HW1/emptyDiamond.h \
- ../HW1/main.c \
- ../HW1/minmax.h
 CMakeFiles/C_HWs.dir/HW1/minmax.c.o: \
  ../HW1/minmax.c \
  ../HW1/minmax.h
+CMakeFiles/C_HWs.dir/HW2/calendar.c.o: \
+ ../HW2/calendar.c \
+ ../HW2/calendar.h
+CMakeFiles/C_HWs.dir/HW2/primes.c.o: \
+ ../HW2/primes.c \
+ ../HW2/primes.h
+CMakeFiles/C_HWs.dir/main.c.o: \
+ ../HW1/diamond.h \
+ ../HW1/emptyDiamond.h \
+ ../HW1/minmax.h \
+ ../HW2/calendar.h \
+ ../HW2/primes.h \
+ ../main.c
