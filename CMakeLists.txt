@@ -11,4 +11,9 @@ add_executable(C_HWs
         HW1/minmax.h
         HW1/emptyDiamond.c
         HW1/emptyDiamond.h
+        HW2/main.c
+        HW2/primes.c
+        HW2/primes.h
+        HW2/calendar.c
+        HW2/calendar.h
         )
