@@ -8,9 +8,9 @@
 char *monthS[] = {" ", "January", "February", "March", "April", "May", "June", "July", "August", "September",
                   "October", "November", "December"};
 char *days[] = {"Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"};
-int daysInMonth[] = {0, 31,28,31,30,31,31,30,31,30,31,30,31};
+int daysInMonth[] = {0, 31,28,31,30,31,30,31,31,30,31,30,31};
 float choice;
-int year, month, quarter, firstDayOfYear=0, firstDayOfMonth=0, i=0, day, weekDay=0;
+int year, month, quarter, firstDayOfYear=0, firstDayOfMonth=0, i=0, day=0, weekDay=0;
 
 int calendar(){
 
@@ -79,9 +79,11 @@ int calendar(){
                 firstDayOfYear = (1 + (year-1) + (year-1) /4 - (year-1) /100 + (year-1)/400)% 7;
                 if (year%400 == 0 || (year%4 == 0 && year%100!=0)){
                     daysInMonth[2] = 29;
-                    printCalendar(month, year, firstDayOfMonth);
+                    firstDayOfMonth = firstDayOfYear;
+                    printCalendar(month, year);
                 } else {
-                    printCalendar(month, year, firstDayOfMonth);
+                    firstDayOfMonth = firstDayOfYear;
+                    printCalendar(month, year);
                 }
             } else{
                 printf("Invalid month number option!\n");
@@ -101,12 +103,14 @@ int calendar(){
                     if (year%400 == 0 || (year%4 == 0 && year%100!=0)){
                         daysInMonth[2] = 29;
                         for (month=1; month<=3; month++){
-                            printCalendar(month, year, firstDayOfMonth);
+                            firstDayOfMonth = firstDayOfYear;
+                            printCalendar(month, year);
                         }
 
                     } else {
                         for (month=1; month<=3; month++){
-                            printCalendar(month, year, firstDayOfMonth);
+                            firstDayOfMonth = firstDayOfYear;
+                            printCalendar(month, year);
                         }
                     }
                     printf("\n");
@@ -116,12 +120,14 @@ int calendar(){
                     if (year%400 == 0 || (year%4 == 0 && year%100!=0)){
                         daysInMonth[2] = 29;
                         for (month=4; month<=6; month++){
-                            printCalendar(month, year, firstDayOfMonth);
+                            firstDayOfMonth = firstDayOfYear;
+                            printCalendar(month, year);
                         }
 
                     } else {
                         for (month=4; month<=6; month++){
-                            printCalendar(month, year, firstDayOfMonth);
+                            firstDayOfMonth = firstDayOfYear;
+                            printCalendar(month, year);
                         }
                     }
                     printf("\n");
@@ -131,12 +137,14 @@ int calendar(){
                     if (year%400 == 0 || (year%4 == 0 && year%100!=0)){
                         daysInMonth[2] = 29;
                         for (month=7; month<=9; month++){
-                            printCalendar(month, year, firstDayOfMonth);
+                            firstDayOfMonth = firstDayOfYear;
+                            printCalendar(month, year);
                         }
 
                     } else {
                         for (month=7; month<=9; month++){
-                            printCalendar(month, year, firstDayOfMonth);
+                            firstDayOfMonth = firstDayOfYear;
+                            printCalendar(month, year);
                         }
                     }
                     printf("\n");
@@ -146,12 +154,14 @@ int calendar(){
                     if (year%400 == 0 || (year%4 == 0 && year%100!=0)){
                         daysInMonth[2] = 29;
                         for (month=10; month<=12; month++){
-                            printCalendar(month, year, firstDayOfMonth);
+                            firstDayOfMonth = firstDayOfYear;
+                            printCalendar(month, year);
                         }
 
                     } else {
                         for (month=10; month<=12; month++){
-                            printCalendar(month, year, firstDayOfMonth);
+                            firstDayOfMonth = firstDayOfYear;
+                            printCalendar(month, year);
                         }
                     }
                     printf("\n");
@@ -174,9 +184,8 @@ int calendar(){
 
 }
 
-int printCalendar(int month, int year, int firstDayOfYear){
+int printCalendar(int month, int year){
     i=0;
-    firstDayOfMonth = firstDayOfYear;
     do {
         firstDayOfMonth = daysInMonth[i] + firstDayOfMonth;
         i++;
