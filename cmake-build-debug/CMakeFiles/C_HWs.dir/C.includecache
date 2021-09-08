@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.c
+/Users/stephanieachoa/Documents/git/C_HWs/HW2/primes.c
 stdio.h
 -
-calendar.h
-/Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.h
+primes.h
+/Users/stephanieachoa/Documents/git/C_HWs/HW2/primes.h
 
-/Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.h
+/Users/stephanieachoa/Documents/git/C_HWs/HW2/primes.h
 

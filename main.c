@@ -13,8 +13,8 @@ int main() {
    // minmax();
    // diamond();
    // emptyDiamond();
-   // primes();
-    calendar();
+   primes();
+   //calendar();
 
     return 0;
 }
