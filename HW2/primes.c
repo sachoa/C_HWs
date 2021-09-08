@@ -4,41 +4,46 @@
 
 #include <stdio.h>
 #include "primes.h"
+#include <math.h>
+
+int N, count, n;
 
 int primes() {
-
-    int N, count, n, div;
-
-    //Also, as soon as the test finds that a number is divisible by another number, the test terminates
-    //since it is then known that the number cannot be prime.
+    count = 0;
 
     printf("Please enter how many prime numbers you would like to see: \n");
     scanf("%d", &N);
-
+    printf("\n");
+    truncf(N);
      if (N > 0){
-         // first need to add in integer conversion (ignores number after the decimal)
-
-         while(count<=N){
-             for (n=2; n < 20; n++){
-                 for (div = 2; div <= n/2; div++){
-                     if (n % div == 0){
-                        break;    // need to fix since a number isnt prime just bc it isnt divisable by 2
-                     }else{
-                         count++; // count needs to be placed else where and need to print number
-                         break;
-                     }
-                 }
+         //need to add in integer conversion (ignores number after the decimal)
+         n = 3;
+         count = 1; // because 2 is a free number
+         printf("2, ");
+         while(count<N){
+             if(isPrime(n) == 1) {
+                 count++;
+                 printf("%d, ", n);
              }
+             n++;
          }
-
-         printf("2\n");
-         printf("the count is %d", count);
-         // print array of prime numbers
+         printf("The number of prime numbers is %d", count);
      }
-
      else {
          printf("Enter a positive integer \n");
      }
-
   return 0;
 }
+
+int isPrime(int n) {
+    int d;
+    for (d = 2; d < n; d++){
+        if (n % d == 0){
+            return 0; // need to fix since odd numbers a numbers arent necissarily prime if isnt divisable by
+        }
+    }
+    return 1;
+}
+
+
+

@@ -6,5 +6,6 @@
 #define C_HWS_PRIMES_H
 
 int primes ();
+int isPrime(int);
 
 #endif //C_HWS_PRIMES_H
