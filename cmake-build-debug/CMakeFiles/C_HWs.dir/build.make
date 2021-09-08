@@ -79,48 +79,9 @@ CMakeFiles/C_HWs.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_HWs.dir/main.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/stephanieachoa/Documents/git/C_HWs/main.c -o CMakeFiles/C_HWs.dir/main.c.s
 
-CMakeFiles/C_HWs.dir/HW1/diamond.c.o: CMakeFiles/C_HWs.dir/flags.make
-CMakeFiles/C_HWs.dir/HW1/diamond.c.o: ../HW1/diamond.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/C_HWs.dir/HW1/diamond.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_HWs.dir/HW1/diamond.c.o -c /Users/stephanieachoa/Documents/git/C_HWs/HW1/diamond.c
-
-CMakeFiles/C_HWs.dir/HW1/diamond.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_HWs.dir/HW1/diamond.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/stephanieachoa/Documents/git/C_HWs/HW1/diamond.c > CMakeFiles/C_HWs.dir/HW1/diamond.c.i
-
-CMakeFiles/C_HWs.dir/HW1/diamond.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_HWs.dir/HW1/diamond.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/stephanieachoa/Documents/git/C_HWs/HW1/diamond.c -o CMakeFiles/C_HWs.dir/HW1/diamond.c.s
-
-CMakeFiles/C_HWs.dir/HW1/minmax.c.o: CMakeFiles/C_HWs.dir/flags.make
-CMakeFiles/C_HWs.dir/HW1/minmax.c.o: ../HW1/minmax.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/C_HWs.dir/HW1/minmax.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_HWs.dir/HW1/minmax.c.o -c /Users/stephanieachoa/Documents/git/C_HWs/HW1/minmax.c
-
-CMakeFiles/C_HWs.dir/HW1/minmax.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_HWs.dir/HW1/minmax.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/stephanieachoa/Documents/git/C_HWs/HW1/minmax.c > CMakeFiles/C_HWs.dir/HW1/minmax.c.i
-
-CMakeFiles/C_HWs.dir/HW1/minmax.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_HWs.dir/HW1/minmax.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/stephanieachoa/Documents/git/C_HWs/HW1/minmax.c -o CMakeFiles/C_HWs.dir/HW1/minmax.c.s
-
-CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.o: CMakeFiles/C_HWs.dir/flags.make
-CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.o: ../HW1/emptyDiamond.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.o -c /Users/stephanieachoa/Documents/git/C_HWs/HW1/emptyDiamond.c
-
-CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/stephanieachoa/Documents/git/C_HWs/HW1/emptyDiamond.c > CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.i
-
-CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/stephanieachoa/Documents/git/C_HWs/HW1/emptyDiamond.c -o CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.s
-
 CMakeFiles/C_HWs.dir/HW2/primes.c.o: CMakeFiles/C_HWs.dir/flags.make
 CMakeFiles/C_HWs.dir/HW2/primes.c.o: ../HW2/primes.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/C_HWs.dir/HW2/primes.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/C_HWs.dir/HW2/primes.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_HWs.dir/HW2/primes.c.o -c /Users/stephanieachoa/Documents/git/C_HWs/HW2/primes.c
 
 CMakeFiles/C_HWs.dir/HW2/primes.c.i: cmake_force
@@ -133,7 +94,7 @@ CMakeFiles/C_HWs.dir/HW2/primes.c.s: cmake_force
 
 CMakeFiles/C_HWs.dir/HW2/calendar.c.o: CMakeFiles/C_HWs.dir/flags.make
 CMakeFiles/C_HWs.dir/HW2/calendar.c.o: ../HW2/calendar.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/C_HWs.dir/HW2/calendar.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/C_HWs.dir/HW2/calendar.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_HWs.dir/HW2/calendar.c.o -c /Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.c
 
 CMakeFiles/C_HWs.dir/HW2/calendar.c.i: cmake_force
@@ -147,9 +108,6 @@ CMakeFiles/C_HWs.dir/HW2/calendar.c.s: cmake_force
 # Object files for target C_HWs
 C_HWs_OBJECTS = \
 "CMakeFiles/C_HWs.dir/main.c.o" \
-"CMakeFiles/C_HWs.dir/HW1/diamond.c.o" \
-"CMakeFiles/C_HWs.dir/HW1/minmax.c.o" \
-"CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.o" \
 "CMakeFiles/C_HWs.dir/HW2/primes.c.o" \
 "CMakeFiles/C_HWs.dir/HW2/calendar.c.o"
 
@@ -157,14 +115,11 @@ C_HWs_OBJECTS = \
 C_HWs_EXTERNAL_OBJECTS =
 
 C_HWs: CMakeFiles/C_HWs.dir/main.c.o
-C_HWs: CMakeFiles/C_HWs.dir/HW1/diamond.c.o
-C_HWs: CMakeFiles/C_HWs.dir/HW1/minmax.c.o
-C_HWs: CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.o
 C_HWs: CMakeFiles/C_HWs.dir/HW2/primes.c.o
 C_HWs: CMakeFiles/C_HWs.dir/HW2/calendar.c.o
 C_HWs: CMakeFiles/C_HWs.dir/build.make
 C_HWs: CMakeFiles/C_HWs.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable C_HWs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable C_HWs"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C_HWs.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

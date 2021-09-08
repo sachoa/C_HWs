@@ -76,24 +76,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW1/diamond.c">
-			<Option target="C_HWs"/>
-		</Unit>
-		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW1/diamond.h">
-			<Option target="C_HWs"/>
-		</Unit>
-		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW1/emptyDiamond.c">
-			<Option target="C_HWs"/>
-		</Unit>
-		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW1/emptyDiamond.h">
-			<Option target="C_HWs"/>
-		</Unit>
-		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW1/minmax.c">
-			<Option target="C_HWs"/>
-		</Unit>
-		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW1/minmax.h">
-			<Option target="C_HWs"/>
-		</Unit>
 		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.c">
 			<Option target="C_HWs"/>
 		</Unit>

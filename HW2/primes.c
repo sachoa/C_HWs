@@ -39,7 +39,7 @@ int isPrime(int n) {
     int d;
     for (d = 2; d < n; d++){
         if (n % d == 0){
-            return 0; // need to fix since odd numbers a numbers arent necissarily prime if isnt divisable by
+            return 0;
         }
     }
     return 1;

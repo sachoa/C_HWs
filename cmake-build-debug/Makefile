@@ -129,78 +129,6 @@ C_HWs/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/build
 .PHONY : C_HWs/fast
 
-HW1/diamond.o: HW1/diamond.c.o
-.PHONY : HW1/diamond.o
-
-# target to build an object file
-HW1/diamond.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW1/diamond.c.o
-.PHONY : HW1/diamond.c.o
-
-HW1/diamond.i: HW1/diamond.c.i
-.PHONY : HW1/diamond.i
-
-# target to preprocess a source file
-HW1/diamond.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW1/diamond.c.i
-.PHONY : HW1/diamond.c.i
-
-HW1/diamond.s: HW1/diamond.c.s
-.PHONY : HW1/diamond.s
-
-# target to generate assembly for a file
-HW1/diamond.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW1/diamond.c.s
-.PHONY : HW1/diamond.c.s
-
-HW1/emptyDiamond.o: HW1/emptyDiamond.c.o
-.PHONY : HW1/emptyDiamond.o
-
-# target to build an object file
-HW1/emptyDiamond.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.o
-.PHONY : HW1/emptyDiamond.c.o
-
-HW1/emptyDiamond.i: HW1/emptyDiamond.c.i
-.PHONY : HW1/emptyDiamond.i
-
-# target to preprocess a source file
-HW1/emptyDiamond.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.i
-.PHONY : HW1/emptyDiamond.c.i
-
-HW1/emptyDiamond.s: HW1/emptyDiamond.c.s
-.PHONY : HW1/emptyDiamond.s
-
-# target to generate assembly for a file
-HW1/emptyDiamond.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW1/emptyDiamond.c.s
-.PHONY : HW1/emptyDiamond.c.s
-
-HW1/minmax.o: HW1/minmax.c.o
-.PHONY : HW1/minmax.o
-
-# target to build an object file
-HW1/minmax.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW1/minmax.c.o
-.PHONY : HW1/minmax.c.o
-
-HW1/minmax.i: HW1/minmax.c.i
-.PHONY : HW1/minmax.i
-
-# target to preprocess a source file
-HW1/minmax.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW1/minmax.c.i
-.PHONY : HW1/minmax.c.i
-
-HW1/minmax.s: HW1/minmax.c.s
-.PHONY : HW1/minmax.s
-
-# target to generate assembly for a file
-HW1/minmax.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW1/minmax.c.s
-.PHONY : HW1/minmax.c.s
-
 HW2/calendar.o: HW2/calendar.c.o
 .PHONY : HW2/calendar.o
 
@@ -282,15 +210,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... C_HWs"
-	@echo "... HW1/diamond.o"
-	@echo "... HW1/diamond.i"
-	@echo "... HW1/diamond.s"
-	@echo "... HW1/emptyDiamond.o"
-	@echo "... HW1/emptyDiamond.i"
-	@echo "... HW1/emptyDiamond.s"
-	@echo "... HW1/minmax.o"
-	@echo "... HW1/minmax.i"
-	@echo "... HW1/minmax.s"
 	@echo "... HW2/calendar.o"
 	@echo "... HW2/calendar.i"
 	@echo "... HW2/calendar.s"
