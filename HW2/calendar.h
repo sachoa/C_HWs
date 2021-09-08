@@ -6,6 +6,6 @@
 #define C_HWS_CALENDAR_H
 
 int calendar();
-int printCalendar(int, int, int);
+int printCalendar(int, int);
 
 #endif //C_HWS_CALENDAR_H

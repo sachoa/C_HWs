@@ -10,11 +10,12 @@
 
 int main() {
 
-   // minmax();
-   // diamond();
-   // emptyDiamond();
+   //minmax();
+   //diamond();
+   //emptyDiamond();
    //primes();
    calendar();
+
 
     return 0;
 }
