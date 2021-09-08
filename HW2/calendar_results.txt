@@ -1,0 +1,54 @@
+VALID CHOICE TEST
+       *** Welcome to Steph's Calendar Program ***You have the following choices:
+        1. Leap year test
+        2. Get first day of the month
+        3. Get a monthly calendar
+        4. Get a quarterly calendar
+        5. Quit
+       Please enter your choice from the above menu:
+       1234
+       This is not a valid choice. Please choose an option 1 through 5.
+    ----------------------------------------------------------------------------------
+    *** Welcome to Steph's Calendar Program ***You have the following choices:
+            1. Leap year test
+            2. Get first day of the month
+            3. Get a monthly calendar
+            4. Get a quarterly calendar
+            5. Quit
+           Please enter your choice from the above menu:
+           7
+           This is not a valid choice. Please choose an option 1 through 5.
+
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+LEAP YEAR TEST
+           *** Welcome to Steph's Calendar Program ***You have the following choices:
+            1. Leap year test
+            2. Get first day of the month
+            3. Get a monthly calendar
+            4. Get a quarterly calendar
+            5. Quit
+           Please enter your choice from the above menu:
+           1
+           Please enter the year to test:
+           2018
+           2018 is NOT a leap year
+        ------------------------------------------------------------------------------
+         *** Welcome to Steph's Calendar Program ***You have the following choices:
+          1. Leap year test
+          2. Get first day of the month
+          3. Get a monthly calendar
+          4. Get a quarterly calendar
+          5. Quit
+         Please enter your choice from the above menu:
+         1
+         Please enter the year to test:
+         2012
+         2012 is a leap year
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+
+FIRST DAY OF THE MONTH TEST
+
