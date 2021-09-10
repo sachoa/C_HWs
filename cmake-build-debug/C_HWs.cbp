@@ -82,10 +82,22 @@
 		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.h">
 			<Option target="C_HWs"/>
 		</Unit>
-		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW2/primes.c">
+		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW3/hanoi.c">
 			<Option target="C_HWs"/>
 		</Unit>
-		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW2/primes.h">
+		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW3/hanoi.h">
+			<Option target="C_HWs"/>
+		</Unit>
+		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW3/jeep.c">
+			<Option target="C_HWs"/>
+		</Unit>
+		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW3/jeep.h">
+			<Option target="C_HWs"/>
+		</Unit>
+		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW3/powers.c">
+			<Option target="C_HWs"/>
+		</Unit>
+		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/HW3/powers.h">
 			<Option target="C_HWs"/>
 		</Unit>
 		<Unit filename="/Users/stephanieachoa/Documents/git/C_HWs/main.c">

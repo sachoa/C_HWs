@@ -4,9 +4,15 @@
 CMakeFiles/C_HWs.dir/HW2/calendar.c.o: \
  ../HW2/calendar.c \
  ../HW2/calendar.h
-CMakeFiles/C_HWs.dir/HW2/primes.c.o: \
- ../HW2/primes.c \
- ../HW2/primes.h
+CMakeFiles/C_HWs.dir/HW3/hanoi.c.o: \
+ ../HW3/hanoi.c \
+ ../HW3/hanoi.h
+CMakeFiles/C_HWs.dir/HW3/jeep.c.o: \
+ ../HW3/jeep.c \
+ ../HW3/jeep.h
+CMakeFiles/C_HWs.dir/HW3/powers.c.o: \
+ ../HW3/powers.c \
+ ../HW3/powers.h
 CMakeFiles/C_HWs.dir/main.c.o: \
  ../HW1/diamond.h \
  ../HW1/emptyDiamond.h \

@@ -4,9 +4,15 @@
 CMakeFiles/C_HWs.dir/HW2/calendar.c.o
  /Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.c
  /Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.h
-CMakeFiles/C_HWs.dir/HW2/primes.c.o
- /Users/stephanieachoa/Documents/git/C_HWs/HW2/primes.c
- /Users/stephanieachoa/Documents/git/C_HWs/HW2/primes.h
+CMakeFiles/C_HWs.dir/HW3/hanoi.c.o
+ /Users/stephanieachoa/Documents/git/C_HWs/HW3/hanoi.c
+ /Users/stephanieachoa/Documents/git/C_HWs/HW3/hanoi.h
+CMakeFiles/C_HWs.dir/HW3/jeep.c.o
+ /Users/stephanieachoa/Documents/git/C_HWs/HW3/jeep.c
+ /Users/stephanieachoa/Documents/git/C_HWs/HW3/jeep.h
+CMakeFiles/C_HWs.dir/HW3/powers.c.o
+ /Users/stephanieachoa/Documents/git/C_HWs/HW3/powers.c
+ /Users/stephanieachoa/Documents/git/C_HWs/HW3/powers.h
 CMakeFiles/C_HWs.dir/main.c.o
  /Users/stephanieachoa/Documents/git/C_HWs/HW1/diamond.h
  /Users/stephanieachoa/Documents/git/C_HWs/HW1/emptyDiamond.h

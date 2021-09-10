@@ -8,8 +8,12 @@ set(CMAKE_C_STANDARD 99)
 
 add_executable(C_HWs
         main.c
-        HW2/primes.c
-        HW2/primes.h
         HW2/calendar.c
         HW2/calendar.h
+        HW3/hanoi.c
+        HW3/hanoi.h
+        HW3/jeep.c
+        HW3/jeep.h
+        HW3/powers.c
+        HW3/powers.h
         )

@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.c
+/Users/stephanieachoa/Documents/git/C_HWs/HW3/hanoi.c
 stdio.h
 -
-calendar.h
-/Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.h
+hanoi.h
+/Users/stephanieachoa/Documents/git/C_HWs/HW3/hanoi.h
 
-/Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.h
+/Users/stephanieachoa/Documents/git/C_HWs/HW3/hanoi.h
 

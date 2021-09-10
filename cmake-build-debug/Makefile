@@ -153,29 +153,77 @@ HW2/calendar.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW2/calendar.c.s
 .PHONY : HW2/calendar.c.s
 
-HW2/primes.o: HW2/primes.c.o
-.PHONY : HW2/primes.o
+HW3/hanoi.o: HW3/hanoi.c.o
+.PHONY : HW3/hanoi.o
 
 # target to build an object file
-HW2/primes.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW2/primes.c.o
-.PHONY : HW2/primes.c.o
+HW3/hanoi.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW3/hanoi.c.o
+.PHONY : HW3/hanoi.c.o
 
-HW2/primes.i: HW2/primes.c.i
-.PHONY : HW2/primes.i
+HW3/hanoi.i: HW3/hanoi.c.i
+.PHONY : HW3/hanoi.i
 
 # target to preprocess a source file
-HW2/primes.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW2/primes.c.i
-.PHONY : HW2/primes.c.i
+HW3/hanoi.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW3/hanoi.c.i
+.PHONY : HW3/hanoi.c.i
 
-HW2/primes.s: HW2/primes.c.s
-.PHONY : HW2/primes.s
+HW3/hanoi.s: HW3/hanoi.c.s
+.PHONY : HW3/hanoi.s
 
 # target to generate assembly for a file
-HW2/primes.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW2/primes.c.s
-.PHONY : HW2/primes.c.s
+HW3/hanoi.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW3/hanoi.c.s
+.PHONY : HW3/hanoi.c.s
+
+HW3/jeep.o: HW3/jeep.c.o
+.PHONY : HW3/jeep.o
+
+# target to build an object file
+HW3/jeep.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW3/jeep.c.o
+.PHONY : HW3/jeep.c.o
+
+HW3/jeep.i: HW3/jeep.c.i
+.PHONY : HW3/jeep.i
+
+# target to preprocess a source file
+HW3/jeep.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW3/jeep.c.i
+.PHONY : HW3/jeep.c.i
+
+HW3/jeep.s: HW3/jeep.c.s
+.PHONY : HW3/jeep.s
+
+# target to generate assembly for a file
+HW3/jeep.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW3/jeep.c.s
+.PHONY : HW3/jeep.c.s
+
+HW3/powers.o: HW3/powers.c.o
+.PHONY : HW3/powers.o
+
+# target to build an object file
+HW3/powers.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW3/powers.c.o
+.PHONY : HW3/powers.c.o
+
+HW3/powers.i: HW3/powers.c.i
+.PHONY : HW3/powers.i
+
+# target to preprocess a source file
+HW3/powers.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW3/powers.c.i
+.PHONY : HW3/powers.c.i
+
+HW3/powers.s: HW3/powers.c.s
+.PHONY : HW3/powers.s
+
+# target to generate assembly for a file
+HW3/powers.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW3/powers.c.s
+.PHONY : HW3/powers.c.s
 
 main.o: main.c.o
 .PHONY : main.o
@@ -213,9 +261,15 @@ help:
 	@echo "... HW2/calendar.o"
 	@echo "... HW2/calendar.i"
 	@echo "... HW2/calendar.s"
-	@echo "... HW2/primes.o"
-	@echo "... HW2/primes.i"
-	@echo "... HW2/primes.s"
+	@echo "... HW3/hanoi.o"
+	@echo "... HW3/hanoi.i"
+	@echo "... HW3/hanoi.s"
+	@echo "... HW3/jeep.o"
+	@echo "... HW3/jeep.i"
+	@echo "... HW3/jeep.s"
+	@echo "... HW3/powers.o"
+	@echo "... HW3/powers.i"
+	@echo "... HW3/powers.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

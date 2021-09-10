@@ -14,8 +14,10 @@ int main() {
    //diamond();
    //emptyDiamond();
    //primes();
-   calendar();
-
+   //calendar();
+   //hanoi();
+   //jeep();
+   powers();
 
     return 0;
 }
