@@ -7,4 +7,5 @@
 
 int powers();
 int compute(int, int);
+
 #endif //C_HWS_POWERS_H

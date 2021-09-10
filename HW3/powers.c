@@ -1,59 +1,50 @@
 //
 // Created by Stephanie Achoa on 9/8/21.
 //
-
-
 #include <stdio.h>
 #include "powers.h"
 
-int base=0;
-int power=0;
-int result = 0;
+int base=0, power=0, answer = 0, naive = 0, j = 0, calc=0;
 
 int powers(){
 
     printf("Welcome, this program raises an number to a integer exponent.\n");
 
-    while (base != -1){
-
+    while (base != 1 ){
         printf("Enter a base number or -1 to quit: ");
         scanf("%d", &base);
-        printf("Enter an integer exponent: ");
-        scanf("%d", &power);
 
-        if (base == 0){
-            printf("%d to the power of %d is UNDEFINED\n", base, power);
+        if (base!=-1){
+            printf("Enter an integer exponent: ");
+            scanf("%d", &power);
+
+            naive = power-1;
+          //  printf("I used %d multiplications (naive method uses %d)", multi, naive);
+            printf("%d raised to the power %d is: %d \n", base, power, compute(base,power));
+        }else{
+            printf("Thanks for playing!\n");
         }
-        else{
-            if (power % 2 == 0){
-                //Rule 1: If n is an even number, to compute x^n we compute x^(n/2) and then multiply the result by itself.
-                result = base
-
-            }
-
-            else{
-                //Rule 2: If n is an odd number, to compute x^n compute x^(n-1) and then multiply the result by x
-            }
-        }
-
-        // naive > is = power-1 multiplicaitons
-        //
-        // printf("I used %d multiplications (naive method uses %d)", multi, naive);
-
     }
-
-    printf("Thanks for playing!")
 
     return 0;
 }
-
 int compute(base, power){
+    if (power == 0){
+        return 1;
+    }
+    else if (power % 2 == 0){
+        answer = compute(base, power/2);
+        j = answer*answer;
 
+        return j;
+    }
+    else {
+        j = compute(base, power-1)*base;
+        return j ;
+    }
 
-    //needs to return new power number
 
 }
-
 
 
 //So by repeatedly applying these rules we can compute x^n for a given n.
