@@ -6,6 +6,6 @@
 #define C_HWS_POWERS_H
 
 int powers();
-int compute(int, int);
+float compute(float, float);
 
 #endif //C_HWS_POWERS_H
