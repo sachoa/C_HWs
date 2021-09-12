@@ -7,12 +7,12 @@ Number of calculations: 2.000 (Naive method uses 2.000)
 Enter a base number or -1 to quit: -6
 Enter an integer exponent: 10
 -6.000 raised to the power of 10.000 is: 60466176.000
-Number of calculations: 6.000 (Naive method uses 9.000)
+Number of calculations: 4.000 (Naive method uses 9.000)
 
 Enter a base number or -1 to quit: 2
 Enter an integer exponent: -2
 2.000 raised to the power of 2.000 is: 0.250
-Number of calculations: 1.000 (Naive method uses 1.000)
+Number of calculations: 2.000 (Naive method uses 1.000)
 
 Enter a base number or -1 to quit: 3
 Enter an integer exponent: -5
@@ -22,14 +22,17 @@ Number of calculations: 4.000 (Naive method uses 4.000)
 Enter a base number or -1 to quit: -5
 Enter an integer exponent: 7
 -5.000 raised to the power of 7.000 is: -78125.000
-Number of calculations: 12.000 (Naive method uses 6.000)
+Number of calculations: 4.000 (Naive method uses 6.000)
 
 Enter a base number or -1 to quit: 19
 Enter an integer exponent: 4
 19.000 raised to the power of 4.000 is: 130321.000
-Number of calculations: 20.000 (Naive method uses 3.000)
+Number of calculations: 2.000 (Naive method uses 3.000)
 
 Enter a base number or -1 to quit: 22
 Enter an integer exponent: 6
 22.000 raised to the power of 6.000 is: 113379904.000
-Number of calculations: 23.000 (Naive method uses 5.000)
+Number of calculations: 3.000 (Naive method uses 5.000)
+
+Enter a base number or -1 to quit: -1
+Thanks for playing!

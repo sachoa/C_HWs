@@ -4,8 +4,8 @@
 #include <stdio.h>
 #include "powers.h"
 
+
 float base, power=0, answer = 0, naive = 0, j = 0, count=0;
-// issue with breaking
 
 int powers(){
 
@@ -31,7 +31,7 @@ int powers(){
                 naive = power-1;
                 count = count -1;
                 printf("%.3f raised to the power of %.3f is: %.3f \n", base, power, compute(base,power));
-                printf("Number of calculations: %.3f (Naive method uses %.3f)\n", count, naive);
+                printf("Number of calculations: %.3f (Naive method uses %.3f)\n", count-1, naive);
                 printf(" \n");
             }
 
@@ -39,25 +39,24 @@ int powers(){
             printf("Thanks for playing!\n");
             break;
         }
+        count = 0;
     }
     return 0;
 }
 
 float compute(float base, float power){
+    count++;
     if (power == 0){
         return 1;
     }
     else if ((int) power % 2 == 0){
         answer = compute(base, power/2);
         j = answer*answer;
-        count++;
         return j;
 
     }
     else {
-        j =compute(base, power-1)*base;
-        count++;
+        j = compute(base, power-1)*base;
         return j;
     }
-
 }
