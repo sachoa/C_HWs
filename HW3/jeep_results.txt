@@ -1,0 +1,36 @@
+Welcome, this program calculates the distance traveled for the Jeep in the Desert puzzle.
+Enter the number of cans: 2
+Enter the number of gallons per can:1
+Enter the jeep's fuel consumption rate (r gallons per 100 miles):1
+The total distance traveled is: 200.00 miles
+
+Enter the number of cans: 5
+Enter the number of gallons per can:5
+Enter the jeep's fuel consumption rate (r gallons per 100 miles):90.909
+The total distance traveled is: 14.72 miles
+
+Enter the number of cans: -3
+The number of cans must be zero or greater. Please try again.
+
+Enter the number of cans: 100
+Enter the number of gallons per can:5
+Enter the jeep's fuel consumption rate (r gallons per 100 miles):2
+The total distance traveled is: 1069.83 miles
+
+Enter the number of cans: 6
+Enter the number of gallons per can:3
+Enter the jeep's fuel consumption rate (r gallons per 100 miles):3
+The total distance traveled is: 278.73 miles
+
+Enter the number of cans: 100
+Enter the number of gallons per can:3
+Enter the jeep's fuel consumption rate (r gallons per 100 miles):3
+The total distance traveled is: 427.93 miles
+
+Enter the number of cans: 1
+Enter the number of gallons per can:5
+Enter the jeep's fuel consumption rate (r gallons per 100 miles):.5
+The total distance traveled is: 1000.00 miles
+
+Enter the number of cans: -1
+Thanks for playing!
