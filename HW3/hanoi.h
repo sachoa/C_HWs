@@ -6,6 +6,6 @@
 #define C_HWS_HANOI_H
 
 int hanoi();
-int hanoi4(int, char, char, char, char);
-int hanoi5(int, char, char, char, char, char);
+void hanoi4(int, char, char, char, char);
+void hanoi5(int, char, char, char, char, char);
 #endif //C_HWS_HANOI_H

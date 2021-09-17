@@ -1,0 +1,102 @@
+Welcome, this program calculates the distance traveled for the Jeep in the Desert puzzle.
+Enter 4 pegs, 5 pegs, or -1 to quit: 4
+Enter the number of disks (zero or greater): 4
+Move disk from A to D
+Move disk from A to B
+Move disk from D to B
+Move disk from A to C
+Move disk from A to D
+Move disk from C to D
+Move disk from B to C
+Move disk from B to D
+Move disk from C to D
+The number of moves: 9
+The savings over Hanoi 3 is: 7
+
+Enter 4 pegs, 5 pegs, or -1 to quit: 5
+Enter the number of disks (zero or greater): 5
+Move disk from A to C
+Move disk from A to B
+Move disk from C to B
+Move disk from A to C
+Move disk from A to D
+Move disk from A to E
+Move disk from D to E
+Move disk from C to E
+Move disk from B to A
+Move disk from B to E
+Move disk from A to E
+The number of moves: 11
+The savings over Hanoi 3 is: 21
+
+Enter 4 pegs, 5 pegs, or -1 to quit: 5
+Enter the number of disks (zero or greater): 8
+Move disk from A to D
+Move disk from A to C
+Move disk from D to C
+Move disk from A to D
+Move disk from A to E
+Move disk from A to B
+Move disk from E to B
+Move disk from D to B
+Move disk from C to A
+Move disk from C to B
+Move disk from A to B
+Move disk from A to C
+Move disk from A to D
+Move disk from A to E
+Move disk from D to E
+Move disk from C to E
+Move disk from B to C
+Move disk from B to A
+Move disk from C to A
+Move disk from B to C
+Move disk from B to D
+Move disk from B to E
+Move disk from D to E
+Move disk from C to E
+Move disk from A to B
+Move disk from A to E
+Move disk from B to E
+The number of moves: 27
+The savings over Hanoi 3 is: 229
+
+Enter 4 pegs, 5 pegs, or -1 to quit: 4
+Enter the number of disks (zero or greater): 7
+Move disk from A to D
+Move disk from A to B
+Move disk from A to C
+Move disk from B to C
+Move disk from D to C
+Move disk from A to D
+Move disk from A to B
+Move disk from D to B
+Move disk from C to A
+Move disk from C to D
+Move disk from C to B
+Move disk from D to B
+Move disk from A to B
+Move disk from A to C
+Move disk from A to D
+Move disk from C to D
+Move disk from B to C
+Move disk from B to D
+Move disk from B to A
+Move disk from D to A
+Move disk from C to A
+Move disk from B to C
+Move disk from B to D
+Move disk from C to D
+Move disk from A to B
+Move disk from A to C
+Move disk from A to D
+Move disk from C to D
+Move disk from B to D
+The number of moves: 29
+The savings over Hanoi 3 is: 99
+
+Enter 4 pegs, 5 pegs, or -1 to quit: -1
+You have quit the program.
+
+Enter 4 pegs, 5 pegs, or -1 to quit: 3
+Please enter a valid pegs option.
