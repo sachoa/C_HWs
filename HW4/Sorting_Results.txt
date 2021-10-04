@@ -1,0 +1,53 @@
+Welcome, this program quick sorts your integers.
+How many integers would you like to sort? 5
+Enter the values of the array as an integer: 20
+Enter the values of the array as an integer: 90
+Enter the values of the array as an integer: 12
+Enter the values of the array as an integer: 4
+Enter the values of the array as an integer: 73
+
+Unsorted Array: 20 90 12 4 73
+
+Sorted Array: 4 12 20 73 90
+
+Welcome, this program quick sorts your integers.
+How many integers would you like to sort? 8
+Enter the values of the array as an integer: 2
+Enter the values of the array as an integer: 4
+Enter the values of the array as an integer: 10
+Enter the values of the array as an integer: 20
+Enter the values of the array as an integer: 22
+Enter the values of the array as an integer: 3
+Enter the values of the array as an integer: 15
+Enter the values of the array as an integer: 1
+
+Unsorted Array: 2 4 10 20 22 3 15 1
+
+Sorted Array: 1 2 3 4 10 15 20 22
+
+Welcome, this program quick sorts your integers.
+How many integers would you like to sort? 20
+Enter the values of the array as an integer: 233
+Enter the values of the array as an integer: 47
+Enter the values of the array as an integer: 872
+Enter the values of the array as an integer: 6
+Enter the values of the array as an integer: 62
+Enter the values of the array as an integer: 5
+Enter the values of the array as an integer: 8
+Enter the values of the array as an integer: 1
+Enter the values of the array as an integer: 4
+Enter the values of the array as an integer: 78
+Enter the values of the array as an integer: 9
+Enter the values of the array as an integer: 1
+Enter the values of the array as an integer: 36
+Enter the values of the array as an integer: 8
+Enter the values of the array as an integer: 2
+Enter the values of the array as an integer: 1
+Enter the values of the array as an integer: 567
+Enter the values of the array as an integer: 8
+Enter the values of the array as an integer: 21
+Enter the values of the array as an integer: 35
+
+Unsorted Array: 233 47 872 6 62 5 8 1 4 78 9 1 36 8 2 1 567 8 21 35
+
+Sorted Array: 1 1 1 2 4 5 6 8 8 8 9 21 35 36 47 62 78 233 567 872
