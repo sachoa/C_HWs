@@ -79,74 +79,74 @@ CMakeFiles/C_HWs.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_HWs.dir/main.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/stephanieachoa/Documents/git/C_HWs/main.c -o CMakeFiles/C_HWs.dir/main.c.s
 
-CMakeFiles/C_HWs.dir/HW2/calendar.c.o: CMakeFiles/C_HWs.dir/flags.make
-CMakeFiles/C_HWs.dir/HW2/calendar.c.o: ../HW2/calendar.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/C_HWs.dir/HW2/calendar.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_HWs.dir/HW2/calendar.c.o -c /Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.c
+CMakeFiles/C_HWs.dir/HW4/int-array-stuff.c.o: CMakeFiles/C_HWs.dir/flags.make
+CMakeFiles/C_HWs.dir/HW4/int-array-stuff.c.o: ../HW4/int-array-stuff.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/C_HWs.dir/HW4/int-array-stuff.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_HWs.dir/HW4/int-array-stuff.c.o -c /Users/stephanieachoa/Documents/git/C_HWs/HW4/int-array-stuff.c
 
-CMakeFiles/C_HWs.dir/HW2/calendar.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_HWs.dir/HW2/calendar.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.c > CMakeFiles/C_HWs.dir/HW2/calendar.c.i
+CMakeFiles/C_HWs.dir/HW4/int-array-stuff.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_HWs.dir/HW4/int-array-stuff.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/stephanieachoa/Documents/git/C_HWs/HW4/int-array-stuff.c > CMakeFiles/C_HWs.dir/HW4/int-array-stuff.c.i
 
-CMakeFiles/C_HWs.dir/HW2/calendar.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_HWs.dir/HW2/calendar.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.c -o CMakeFiles/C_HWs.dir/HW2/calendar.c.s
+CMakeFiles/C_HWs.dir/HW4/int-array-stuff.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_HWs.dir/HW4/int-array-stuff.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/stephanieachoa/Documents/git/C_HWs/HW4/int-array-stuff.c -o CMakeFiles/C_HWs.dir/HW4/int-array-stuff.c.s
 
-CMakeFiles/C_HWs.dir/HW3/hanoi.c.o: CMakeFiles/C_HWs.dir/flags.make
-CMakeFiles/C_HWs.dir/HW3/hanoi.c.o: ../HW3/hanoi.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/C_HWs.dir/HW3/hanoi.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_HWs.dir/HW3/hanoi.c.o -c /Users/stephanieachoa/Documents/git/C_HWs/HW3/hanoi.c
+CMakeFiles/C_HWs.dir/HW4/random-stuff.c.o: CMakeFiles/C_HWs.dir/flags.make
+CMakeFiles/C_HWs.dir/HW4/random-stuff.c.o: ../HW4/random-stuff.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/C_HWs.dir/HW4/random-stuff.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_HWs.dir/HW4/random-stuff.c.o -c /Users/stephanieachoa/Documents/git/C_HWs/HW4/random-stuff.c
 
-CMakeFiles/C_HWs.dir/HW3/hanoi.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_HWs.dir/HW3/hanoi.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/stephanieachoa/Documents/git/C_HWs/HW3/hanoi.c > CMakeFiles/C_HWs.dir/HW3/hanoi.c.i
+CMakeFiles/C_HWs.dir/HW4/random-stuff.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_HWs.dir/HW4/random-stuff.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/stephanieachoa/Documents/git/C_HWs/HW4/random-stuff.c > CMakeFiles/C_HWs.dir/HW4/random-stuff.c.i
 
-CMakeFiles/C_HWs.dir/HW3/hanoi.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_HWs.dir/HW3/hanoi.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/stephanieachoa/Documents/git/C_HWs/HW3/hanoi.c -o CMakeFiles/C_HWs.dir/HW3/hanoi.c.s
+CMakeFiles/C_HWs.dir/HW4/random-stuff.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_HWs.dir/HW4/random-stuff.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/stephanieachoa/Documents/git/C_HWs/HW4/random-stuff.c -o CMakeFiles/C_HWs.dir/HW4/random-stuff.c.s
 
-CMakeFiles/C_HWs.dir/HW3/jeep.c.o: CMakeFiles/C_HWs.dir/flags.make
-CMakeFiles/C_HWs.dir/HW3/jeep.c.o: ../HW3/jeep.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/C_HWs.dir/HW3/jeep.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_HWs.dir/HW3/jeep.c.o -c /Users/stephanieachoa/Documents/git/C_HWs/HW3/jeep.c
+CMakeFiles/C_HWs.dir/HW4/sort.c.o: CMakeFiles/C_HWs.dir/flags.make
+CMakeFiles/C_HWs.dir/HW4/sort.c.o: ../HW4/sort.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/C_HWs.dir/HW4/sort.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_HWs.dir/HW4/sort.c.o -c /Users/stephanieachoa/Documents/git/C_HWs/HW4/sort.c
 
-CMakeFiles/C_HWs.dir/HW3/jeep.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_HWs.dir/HW3/jeep.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/stephanieachoa/Documents/git/C_HWs/HW3/jeep.c > CMakeFiles/C_HWs.dir/HW3/jeep.c.i
+CMakeFiles/C_HWs.dir/HW4/sort.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_HWs.dir/HW4/sort.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/stephanieachoa/Documents/git/C_HWs/HW4/sort.c > CMakeFiles/C_HWs.dir/HW4/sort.c.i
 
-CMakeFiles/C_HWs.dir/HW3/jeep.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_HWs.dir/HW3/jeep.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/stephanieachoa/Documents/git/C_HWs/HW3/jeep.c -o CMakeFiles/C_HWs.dir/HW3/jeep.c.s
+CMakeFiles/C_HWs.dir/HW4/sort.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_HWs.dir/HW4/sort.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/stephanieachoa/Documents/git/C_HWs/HW4/sort.c -o CMakeFiles/C_HWs.dir/HW4/sort.c.s
 
-CMakeFiles/C_HWs.dir/HW3/powers.c.o: CMakeFiles/C_HWs.dir/flags.make
-CMakeFiles/C_HWs.dir/HW3/powers.c.o: ../HW3/powers.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/C_HWs.dir/HW3/powers.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_HWs.dir/HW3/powers.c.o -c /Users/stephanieachoa/Documents/git/C_HWs/HW3/powers.c
+CMakeFiles/C_HWs.dir/HW4/sorting-routines.c.o: CMakeFiles/C_HWs.dir/flags.make
+CMakeFiles/C_HWs.dir/HW4/sorting-routines.c.o: ../HW4/sorting-routines.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/C_HWs.dir/HW4/sorting-routines.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_HWs.dir/HW4/sorting-routines.c.o -c /Users/stephanieachoa/Documents/git/C_HWs/HW4/sorting-routines.c
 
-CMakeFiles/C_HWs.dir/HW3/powers.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_HWs.dir/HW3/powers.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/stephanieachoa/Documents/git/C_HWs/HW3/powers.c > CMakeFiles/C_HWs.dir/HW3/powers.c.i
+CMakeFiles/C_HWs.dir/HW4/sorting-routines.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_HWs.dir/HW4/sorting-routines.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/stephanieachoa/Documents/git/C_HWs/HW4/sorting-routines.c > CMakeFiles/C_HWs.dir/HW4/sorting-routines.c.i
 
-CMakeFiles/C_HWs.dir/HW3/powers.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_HWs.dir/HW3/powers.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/stephanieachoa/Documents/git/C_HWs/HW3/powers.c -o CMakeFiles/C_HWs.dir/HW3/powers.c.s
+CMakeFiles/C_HWs.dir/HW4/sorting-routines.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_HWs.dir/HW4/sorting-routines.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/stephanieachoa/Documents/git/C_HWs/HW4/sorting-routines.c -o CMakeFiles/C_HWs.dir/HW4/sorting-routines.c.s
 
 # Object files for target C_HWs
 C_HWs_OBJECTS = \
 "CMakeFiles/C_HWs.dir/main.c.o" \
-"CMakeFiles/C_HWs.dir/HW2/calendar.c.o" \
-"CMakeFiles/C_HWs.dir/HW3/hanoi.c.o" \
-"CMakeFiles/C_HWs.dir/HW3/jeep.c.o" \
-"CMakeFiles/C_HWs.dir/HW3/powers.c.o"
+"CMakeFiles/C_HWs.dir/HW4/int-array-stuff.c.o" \
+"CMakeFiles/C_HWs.dir/HW4/random-stuff.c.o" \
+"CMakeFiles/C_HWs.dir/HW4/sort.c.o" \
+"CMakeFiles/C_HWs.dir/HW4/sorting-routines.c.o"
 
 # External object files for target C_HWs
 C_HWs_EXTERNAL_OBJECTS =
 
 C_HWs: CMakeFiles/C_HWs.dir/main.c.o
-C_HWs: CMakeFiles/C_HWs.dir/HW2/calendar.c.o
-C_HWs: CMakeFiles/C_HWs.dir/HW3/hanoi.c.o
-C_HWs: CMakeFiles/C_HWs.dir/HW3/jeep.c.o
-C_HWs: CMakeFiles/C_HWs.dir/HW3/powers.c.o
+C_HWs: CMakeFiles/C_HWs.dir/HW4/int-array-stuff.c.o
+C_HWs: CMakeFiles/C_HWs.dir/HW4/random-stuff.c.o
+C_HWs: CMakeFiles/C_HWs.dir/HW4/sort.c.o
+C_HWs: CMakeFiles/C_HWs.dir/HW4/sorting-routines.c.o
 C_HWs: CMakeFiles/C_HWs.dir/build.make
 C_HWs: CMakeFiles/C_HWs.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable C_HWs"

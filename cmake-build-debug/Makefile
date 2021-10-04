@@ -129,101 +129,101 @@ C_HWs/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/build
 .PHONY : C_HWs/fast
 
-HW2/calendar.o: HW2/calendar.c.o
-.PHONY : HW2/calendar.o
+HW4/int-array-stuff.o: HW4/int-array-stuff.c.o
+.PHONY : HW4/int-array-stuff.o
 
 # target to build an object file
-HW2/calendar.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW2/calendar.c.o
-.PHONY : HW2/calendar.c.o
+HW4/int-array-stuff.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW4/int-array-stuff.c.o
+.PHONY : HW4/int-array-stuff.c.o
 
-HW2/calendar.i: HW2/calendar.c.i
-.PHONY : HW2/calendar.i
+HW4/int-array-stuff.i: HW4/int-array-stuff.c.i
+.PHONY : HW4/int-array-stuff.i
 
 # target to preprocess a source file
-HW2/calendar.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW2/calendar.c.i
-.PHONY : HW2/calendar.c.i
+HW4/int-array-stuff.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW4/int-array-stuff.c.i
+.PHONY : HW4/int-array-stuff.c.i
 
-HW2/calendar.s: HW2/calendar.c.s
-.PHONY : HW2/calendar.s
+HW4/int-array-stuff.s: HW4/int-array-stuff.c.s
+.PHONY : HW4/int-array-stuff.s
 
 # target to generate assembly for a file
-HW2/calendar.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW2/calendar.c.s
-.PHONY : HW2/calendar.c.s
+HW4/int-array-stuff.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW4/int-array-stuff.c.s
+.PHONY : HW4/int-array-stuff.c.s
 
-HW3/hanoi.o: HW3/hanoi.c.o
-.PHONY : HW3/hanoi.o
+HW4/random-stuff.o: HW4/random-stuff.c.o
+.PHONY : HW4/random-stuff.o
 
 # target to build an object file
-HW3/hanoi.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW3/hanoi.c.o
-.PHONY : HW3/hanoi.c.o
+HW4/random-stuff.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW4/random-stuff.c.o
+.PHONY : HW4/random-stuff.c.o
 
-HW3/hanoi.i: HW3/hanoi.c.i
-.PHONY : HW3/hanoi.i
+HW4/random-stuff.i: HW4/random-stuff.c.i
+.PHONY : HW4/random-stuff.i
 
 # target to preprocess a source file
-HW3/hanoi.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW3/hanoi.c.i
-.PHONY : HW3/hanoi.c.i
+HW4/random-stuff.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW4/random-stuff.c.i
+.PHONY : HW4/random-stuff.c.i
 
-HW3/hanoi.s: HW3/hanoi.c.s
-.PHONY : HW3/hanoi.s
+HW4/random-stuff.s: HW4/random-stuff.c.s
+.PHONY : HW4/random-stuff.s
 
 # target to generate assembly for a file
-HW3/hanoi.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW3/hanoi.c.s
-.PHONY : HW3/hanoi.c.s
+HW4/random-stuff.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW4/random-stuff.c.s
+.PHONY : HW4/random-stuff.c.s
 
-HW3/jeep.o: HW3/jeep.c.o
-.PHONY : HW3/jeep.o
+HW4/sort.o: HW4/sort.c.o
+.PHONY : HW4/sort.o
 
 # target to build an object file
-HW3/jeep.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW3/jeep.c.o
-.PHONY : HW3/jeep.c.o
+HW4/sort.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW4/sort.c.o
+.PHONY : HW4/sort.c.o
 
-HW3/jeep.i: HW3/jeep.c.i
-.PHONY : HW3/jeep.i
+HW4/sort.i: HW4/sort.c.i
+.PHONY : HW4/sort.i
 
 # target to preprocess a source file
-HW3/jeep.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW3/jeep.c.i
-.PHONY : HW3/jeep.c.i
+HW4/sort.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW4/sort.c.i
+.PHONY : HW4/sort.c.i
 
-HW3/jeep.s: HW3/jeep.c.s
-.PHONY : HW3/jeep.s
+HW4/sort.s: HW4/sort.c.s
+.PHONY : HW4/sort.s
 
 # target to generate assembly for a file
-HW3/jeep.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW3/jeep.c.s
-.PHONY : HW3/jeep.c.s
+HW4/sort.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW4/sort.c.s
+.PHONY : HW4/sort.c.s
 
-HW3/powers.o: HW3/powers.c.o
-.PHONY : HW3/powers.o
+HW4/sorting-routines.o: HW4/sorting-routines.c.o
+.PHONY : HW4/sorting-routines.o
 
 # target to build an object file
-HW3/powers.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW3/powers.c.o
-.PHONY : HW3/powers.c.o
+HW4/sorting-routines.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW4/sorting-routines.c.o
+.PHONY : HW4/sorting-routines.c.o
 
-HW3/powers.i: HW3/powers.c.i
-.PHONY : HW3/powers.i
+HW4/sorting-routines.i: HW4/sorting-routines.c.i
+.PHONY : HW4/sorting-routines.i
 
 # target to preprocess a source file
-HW3/powers.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW3/powers.c.i
-.PHONY : HW3/powers.c.i
+HW4/sorting-routines.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW4/sorting-routines.c.i
+.PHONY : HW4/sorting-routines.c.i
 
-HW3/powers.s: HW3/powers.c.s
-.PHONY : HW3/powers.s
+HW4/sorting-routines.s: HW4/sorting-routines.c.s
+.PHONY : HW4/sorting-routines.s
 
 # target to generate assembly for a file
-HW3/powers.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW3/powers.c.s
-.PHONY : HW3/powers.c.s
+HW4/sorting-routines.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_HWs.dir/build.make CMakeFiles/C_HWs.dir/HW4/sorting-routines.c.s
+.PHONY : HW4/sorting-routines.c.s
 
 main.o: main.c.o
 .PHONY : main.o
@@ -258,18 +258,18 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... C_HWs"
-	@echo "... HW2/calendar.o"
-	@echo "... HW2/calendar.i"
-	@echo "... HW2/calendar.s"
-	@echo "... HW3/hanoi.o"
-	@echo "... HW3/hanoi.i"
-	@echo "... HW3/hanoi.s"
-	@echo "... HW3/jeep.o"
-	@echo "... HW3/jeep.i"
-	@echo "... HW3/jeep.s"
-	@echo "... HW3/powers.o"
-	@echo "... HW3/powers.i"
-	@echo "... HW3/powers.s"
+	@echo "... HW4/int-array-stuff.o"
+	@echo "... HW4/int-array-stuff.i"
+	@echo "... HW4/int-array-stuff.s"
+	@echo "... HW4/random-stuff.o"
+	@echo "... HW4/random-stuff.i"
+	@echo "... HW4/random-stuff.s"
+	@echo "... HW4/sort.o"
+	@echo "... HW4/sort.i"
+	@echo "... HW4/sort.s"
+	@echo "... HW4/sorting-routines.o"
+	@echo "... HW4/sorting-routines.i"
+	@echo "... HW4/sorting-routines.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

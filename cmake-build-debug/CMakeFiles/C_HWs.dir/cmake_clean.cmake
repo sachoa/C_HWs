@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/C_HWs.dir/HW2/calendar.c.o"
-  "CMakeFiles/C_HWs.dir/HW3/hanoi.c.o"
-  "CMakeFiles/C_HWs.dir/HW3/jeep.c.o"
-  "CMakeFiles/C_HWs.dir/HW3/powers.c.o"
+  "CMakeFiles/C_HWs.dir/HW4/int-array-stuff.c.o"
+  "CMakeFiles/C_HWs.dir/HW4/random-stuff.c.o"
+  "CMakeFiles/C_HWs.dir/HW4/sort.c.o"
+  "CMakeFiles/C_HWs.dir/HW4/sorting-routines.c.o"
   "CMakeFiles/C_HWs.dir/main.c.o"
   "C_HWs"
   "C_HWs.pdb"

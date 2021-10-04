@@ -8,10 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/stephanieachoa/Documents/git/C_HWs/HW2/calendar.c" "/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles/C_HWs.dir/HW2/calendar.c.o"
-  "/Users/stephanieachoa/Documents/git/C_HWs/HW3/hanoi.c" "/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles/C_HWs.dir/HW3/hanoi.c.o"
-  "/Users/stephanieachoa/Documents/git/C_HWs/HW3/jeep.c" "/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles/C_HWs.dir/HW3/jeep.c.o"
-  "/Users/stephanieachoa/Documents/git/C_HWs/HW3/powers.c" "/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles/C_HWs.dir/HW3/powers.c.o"
+  "/Users/stephanieachoa/Documents/git/C_HWs/HW4/int-array-stuff.c" "/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles/C_HWs.dir/HW4/int-array-stuff.c.o"
+  "/Users/stephanieachoa/Documents/git/C_HWs/HW4/random-stuff.c" "/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles/C_HWs.dir/HW4/random-stuff.c.o"
+  "/Users/stephanieachoa/Documents/git/C_HWs/HW4/sort.c" "/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles/C_HWs.dir/HW4/sort.c.o"
+  "/Users/stephanieachoa/Documents/git/C_HWs/HW4/sorting-routines.c" "/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles/C_HWs.dir/HW4/sorting-routines.c.o"
   "/Users/stephanieachoa/Documents/git/C_HWs/main.c" "/Users/stephanieachoa/Documents/git/C_HWs/cmake-build-debug/CMakeFiles/C_HWs.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")

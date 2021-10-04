@@ -7,17 +7,23 @@
 #include "HW1/emptyDiamond.h"
 #include "HW2/primes.h"
 #include "HW2/calendar.h"
+#include "HW2/primes.h"
+#include "HW2/calendar.h"
+#include "HW3/powers.h"
+#include "HW3/jeep.h"
+#include "HW3/hanoi.h"
+#include "HW4/sort.h"
+#include "HW4/int-array-stuff.h"
+#include "HW4/random-stuff.h"
+#include "HW4/sorting-routines.h"
+
 
 int main() {
 
-   //minmax();
-   //diamond();
-   //emptyDiamond();
-   //primes();
-   //calendar();
-   //hanoi();
-   //jeep();
-   powers();
+   // HW1 minmax(); diamond();
+   // HW2 emptyDiamond(); primes(); calendar();
+   // HW3 jeep(); powers(); hanoi();
+   // HW4 sort();
 
     return 0;
 }
