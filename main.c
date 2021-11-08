@@ -16,14 +16,20 @@
 #include "HW4/int-array-stuff.h"
 #include "HW4/random-stuff.h"
 #include "HW4/sorting-routines.h"
+#include "HW5/josephus_functions.h"
+#include "HW5/josephus_main.h"
+#include "HW6/sort-presidents.h"
 
 
-int main() {
+int main(int argc, char **argv) {
 
    // HW1 minmax(); diamond();
    // HW2 emptyDiamond(); primes(); calendar();
    // HW3 jeep(); powers(); hanoi();
    // HW4 sort();
+   // HW5 josephus_main(argc, argv);
+   // HW6
 
+   president_main(argc, argv);
     return 0;
 }

@@ -1,0 +1,198 @@
+This program contains a list of all the US presidents with their first name, last name, and year elected.
+There are 3 options to sort the presidents: either by first name, last name, or year elected.
+Enter -l to sort alphabetically by last name.
+Enter -f to sort alphabetically by first name.
+Enter -y to sort by year elected from earliest to latest.
+Unsorted list of presidents:
+George Bush 1989
+Bill Clinton 1993
+George Bush 2001
+Barack Obama 2009
+Donald Trump 2017
+Joseph Biden 2021
+George Washington 1789
+John Adams 1797
+Thomas Jefferson 1801
+James Madison 1809
+James Monroe 1817
+John Adams 1825
+Andrew Jackson 1829
+Martin VanBuren 1837
+William Harrison 1841
+John Tyler 1841
+James Polk 1845
+Zachary Taylor 1849
+Millard Fillmore 1850
+Franklin Pierce 1853
+James Buchanan 1857
+Abraham Lincoln 1861
+Andrew Johnson 1865
+Ulysses Grant 1869
+Rutherford Hayes 1877
+James Garfield 1881
+Chester Arthur 1881
+Grover Cleveland 1885
+Benjamin Harrison 1889
+Grover Cleveland 1893
+William McKinley 1897
+Theodore Roosevelt 1901
+William Taft 1909
+Woodrow Wilson 1913
+Warren Harding 1921
+Calvin Coolidge 1923
+Herbert Hoover 1929
+Franklin Roosevelt 1933
+Harry Truman 1945
+Dwight Eisenhower 1953
+John Kennedy 1961
+Lyndon Johnson 1963
+Richard Nixon 1969
+Gerald Ford 1974
+Jimmy Carter 1977
+Ronald Reagan 1981
+
+Sorted list of presidents by year elected:
+1789 George Washington
+ 1797 John Adams
+ 1801 Thomas Jefferson
+ 1809 James Madison
+ 1817 James Monroe
+ 1825 John Adams
+ 1829 Andrew Jackson
+ 1837 Martin VanBuren
+ 1841 William Harrison
+ 1841 John Tyler
+ 1845 James Polk
+ 1849 Zachary Taylor
+ 1850 Millard Fillmore
+ 1853 Franklin Pierce
+ 1857 James Buchanan
+ 1861 Abraham Lincoln
+ 1865 Andrew Johnson
+ 1869 Ulysses Grant
+ 1877 Rutherford Hayes
+ 1881 James Garfield
+ 1881 Chester Arthur
+ 1885 Grover Cleveland
+ 1889 Benjamin Harrison
+ 1893 Grover Cleveland
+ 1897 William McKinley
+ 1901 Theodore Roosevelt
+ 1909 William Taft
+ 1913 Woodrow Wilson
+ 1921 Warren Harding
+ 1923 Calvin Coolidge
+ 1929 Herbert Hoover
+ 1933 Franklin Roosevelt
+ 1945 Harry Truman
+ 1953 Dwight Eisenhower
+ 1961 John Kennedy
+ 1963 Lyndon Johnson
+ 1969 Richard Nixon
+ 1974 Gerald Ford
+ 1977 Jimmy Carter
+ 1981 Ronald Reagan
+ 1989 George Bush
+ 1993 Bill Clinton
+ 2001 George Bush
+ 2009 Barack Obama
+ 2017 Donald Trump
+ 2021 Joseph Biden
+
+
+Sorted list of presidents by last name:
+Adams John 1797
+Adams John 1825
+Arthur Chester 1881
+Biden Joseph 2021
+Buchanan James 1857
+Bush George 1989
+Bush George 2001
+Carter Jimmy 1977
+Cleveland Grover 1885
+Cleveland Grover 1893
+Clinton Bill 1993
+Coolidge Calvin 1923
+Eisenhower Dwight 1953
+Fillmore Millard 1850
+Ford Gerald 1974
+Garfield James 1881
+Grant Ulysses 1869
+Harding Warren 1921
+Harrison William 1841
+Harrison Benjamin 1889
+Hayes Rutherford 1877
+Hoover Herbert 1929
+Jackson Andrew 1829
+Jefferson Thomas 1801
+Johnson Andrew 1865
+Johnson Lyndon 1963
+Kennedy John 1961
+Lincoln Abraham 1861
+Madison James 1809
+McKinley William 1897
+Monroe James 1817
+Nixon Richard 1969
+Obama Barack 2009
+Pierce Franklin 1853
+Polk James 1845
+Reagan Ronald 1981
+Roosevelt Theodore 1901
+Roosevelt Franklin 1933
+Taft William 1909
+Taylor Zachary 1849
+Truman Harry 1945
+Trump Donald 2017
+Tyler John 1841
+VanBuren Martin 1837
+Washington George 1789
+Wilson Woodrow 1913c
+
+
+Sorted list of presidents by first name:
+1789 George Washington
+ 1797 John Adams
+ 1801 Thomas Jefferson
+ 1809 James Madison
+ 1817 James Monroe
+ 1825 John Adams
+ 1829 Andrew Jackson
+ 1837 Martin VanBuren
+ 1841 William Harrison
+ 1841 John Tyler
+ 1845 James Polk
+ 1849 Zachary Taylor
+ 1850 Millard Fillmore
+ 1853 Franklin Pierce
+ 1857 James Buchanan
+ 1861 Abraham Lincoln
+ 1865 Andrew Johnson
+ 1869 Ulysses Grant
+ 1877 Rutherford Hayes
+ 1881 James Garfield
+ 1881 Chester Arthur
+ 1885 Grover Cleveland
+ 1889 Benjamin Harrison
+ 1893 Grover Cleveland
+ 1897 William McKinley
+ 1901 Theodore Roosevelt
+ 1909 William Taft
+ 1913 Woodrow Wilson
+ 1921 Warren Harding
+ 1923 Calvin Coolidge
+ 1929 Herbert Hoover
+ 1933 Franklin Roosevelt
+ 1945 Harry Truman
+ 1953 Dwight Eisenhower
+ 1961 John Kennedy
+ 1963 Lyndon Johnson
+ 1969 Richard Nixon
+ 1974 Gerald Ford
+ 1977 Jimmy Carter
+ 1981 Ronald Reagan
+ 1989 George Bush
+ 1993 Bill Clinton
+ 2001 George Bush
+ 2009 Barack Obama
+ 2017 Donald Trump
+ 2021 Joseph Biden
